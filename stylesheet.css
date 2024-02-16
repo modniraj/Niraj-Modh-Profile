@@ -194,6 +194,28 @@ nav a.active {
     0 0 25px gold, 0 0 50px gold, 0 0 100px gold, 0 0 200px gold;
 }
 
+/* Resume Button */
+.btn-box-resume {
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px 28px;
+    background: wheat;
+    border-radius: 50px;
+    color: black;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-size: 600;
+    opacity: 0;
+    animation: slideLeft 1s ease forwards;
+    animation-delay: 1s;
+    box-shadow: 0 0 5px gold, 0 0 25px gold;
+}
+
+.btn-box-resume:hover {
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold, 0 0 50px gold, 0 0 100px gold, 0 0 200px gold;
+}
+
 /* About */
 .about {
     display: grid;
