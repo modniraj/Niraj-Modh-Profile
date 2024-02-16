@@ -194,7 +194,6 @@ nav a.active {
     0 0 25px gold, 0 0 50px gold, 0 0 100px gold, 0 0 200px gold;
 }
 
-/* Resume Button */
 .btn-box-resume {
     display: inline-block;
     text-decoration: none;
@@ -215,7 +214,6 @@ nav a.active {
     box-shadow: 0 0 5px gold,
     0 0 25px gold, 0 0 50px gold, 0 0 100px gold, 0 0 200px gold;
 }
-
 /* About */
 .about {
     display: grid;
